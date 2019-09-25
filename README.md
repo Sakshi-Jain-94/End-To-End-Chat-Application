@@ -45,6 +45,9 @@ Commands to set up node server ./server/
    To add "watch-restart" so that your server automatically restart on change, execute "nodemon server.js"
    
    
+For chatbot: 
+Current Romantic Trip intent are completed. For other you can add intent as per your requirement in tripPlanner.js
+
 For any issue while setup. feel free to contact.
    
 
