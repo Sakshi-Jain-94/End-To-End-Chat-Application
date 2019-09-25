@@ -1,0 +1,23 @@
+{
+  "name": "my-chat-server",
+  "version": "1.0.0",
+  "description": "my chat server side",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sakshi jain",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "md5": "^2.2.1",
+    "mysql": "^2.17.1",
+    "websocket": "^1.0.30"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
